@@ -1,0 +1,36 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Height of Parent Linear Layout -->
+    <dimen name="linear_layout_height">0dp</dimen>
+
+    <!-- Elevation of the App Bar -->
+    <dimen name="app_bar_elevation">0dp</dimen>
+
+    <!-- Height of each list item -->
+    <dimen name="list_item_height">88dp</dimen>
+
+    <!-- Height of the ImageViews -->
+    <dimen name="image_view_height">202dp</dimen>
+
+    <!-- Default padding and margin value -->
+    <dimen name="default_padding_margin">16dp</dimen>
+
+    <!-- Height for the TextViews displayed in the vocabulary lists -->
+    <dimen name="list_item_text_view_height">44dp</dimen>
+
+    <!-- Height and width for the play arrow icon -->
+    <dimen name="play_arrow_ic_width_height">24dp</dimen>
+</resources>

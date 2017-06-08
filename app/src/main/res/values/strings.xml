@@ -1,0 +1,151 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Tour Guide App</string>
+
+    <!-- Category name for attractions [CHAR LIMIT=20] -->
+    <string name="category_attractions">Attractions</string>
+
+    <!-- Category name for restaurants [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Category name for public places [CHAR LIMIT=20] -->
+    <string name="category_public_places">Public Places</string>
+
+    <!-- Category name for events [CHAR LIMIT=20] -->
+    <string name="category_events">Events</string>
+
+    <!-- Name of the first attraction [CHAR LIMIT=20] -->
+    <string name="attractions_cologne_cathedral">Cologne Cathedral</string>
+
+    <!-- Details about the first attraction [CHAR LIMIT=100] -->
+    <string name="attractions_cologne_cathedral_details">The world-famous Cologne Cathedral is the
+    city\'s most important landmark and the toast of the whole city.</string>
+
+    <!-- Name of the second attraction [CHAR LIMIT=20] -->
+    <string name="attractions_cologne_central_station">Cologne Central Station</string>
+
+    <!-- Details about the second attraction [CHAR LIMIT=100] -->
+    <string name="attractions_cologne_central_station_details">Cologne\'s Central Station is a
+        historic train station right in the heart of the city.</string>
+
+    <!-- Name of the third attraction [CHAR LIMIT=20] -->
+    <string name="attractions_lvr_tower">LVR Tower</string>
+
+    <!-- Details about the third attraction [CHAR LIMIT=100] -->
+    <string name="attractions_lvr_tower_details">The LVR Tower is a modern high-rise office
+        building with an open-air viewpoint at its very top which offers a breathtaking 360° view
+        over Cologne.</string>
+
+    <!-- Name of the fourth attraction [CHAR LIMIT=20] -->
+    <string name="attractions_cologne_rhine_cable_car">Cologne Rhine Cable Car</string>
+
+    <!-- Details about the fourth attraction [CHAR LIMIT=100] -->
+    <string name="attractions_cologne_rhine_cable_car_details">Cologne\'s Rhine Cable Car is a
+        historic cable car which connects both sides, left and right to the river rhine, of the city
+        with the exit points being in Cologne\'s wonderful rhine park on the eastern and the Cologne
+        Zoo on the western half.</string>
+
+    <!-- Name of the first event [CHAR LIMIT=20] -->
+    <string name="events_cologne_lights">Cologne Lights</string>
+
+    <!-- Details about the first event [CHAR LIMIT=100] -->
+    <string name="events_cologne_lights_details">Cologne Lights is an annual event at the river
+        rhine with music and fireworks.</string>
+
+    <!-- Name of the second event [CHAR LIMIT=20] -->
+    <string name="events_gamescom">Gamescom</string>
+
+    <!-- Details about the second event  -->
+    <string name="events_gamescom_details">The Gamescom fair is the world\'s largest digital
+        gaming fair and takes place annually at Cologne\'s trade fair.</string>
+
+    <!-- Name of the third event [CHAR LIMIT=20] -->
+    <string name="events_cologne_marathon">Cologne Marathon</string>
+
+    <!-- Details about the third event [CHAR LIMIT=100] -->
+    <string name="events_cologne_marathon_details">The Cologne Marathon takes place annually each
+        October.</string>
+
+    <!-- Name of the fourth event [CHAR LIMIT=20] -->
+    <string name="events_elfter_im_elften">Elfter im Elften</string>
+
+    <!-- Details about the fourth event [CHAR LIMIT=100] -->
+    <string name="events_elfter_im_elften_details">"Elfter im Elften" is the opening day of the
+        carnival season in Cologne, which lasts from 11/11/yyyy until "Aschermittwoch" which is 46
+        days before Easter Sunday.</string>
+
+
+    <!-- Name of the first public place [CHAR LIMIT=20] -->
+    <string name="public_places_roncalliplatz">Roncalliplatz</string>
+
+    <!-- Details about the first public place [CHAR LIMIT=100] -->
+    <string name="public_places_roncalliplatz_details">The Roncalliplatz is the huge place on the
+        northern side of the Cologne Cathedral, the city's most important monument.</string>
+
+    <!-- Name of the second public place [CHAR LIMIT=20] -->
+    <string name="public_places_rhinepark">Rhinepark</string>
+
+    <!-- Details about the second public place [CHAR LIMIT=100] -->
+    <string name="public_places_rhinepark_details">The Rhinepark on the eastern half of Cologne
+        right at the river rhine, is a beautiful vast green public space.</string>
+
+    <!-- Name of the third public place [CHAR LIMIT=20] -->
+    <string name="public_places_rhineboulevard">Rhineboulevard</string>
+
+    <!-- Details about the third public place [CHAR LIMIT=100] -->
+    <string name="public_places_rhineboulevard_details">The Rhineboulevard is a huge flight of
+        stairs on the eastern half of Cologne right at the river rhine from which you have wonderful
+        view onto Cologne\'s historic part just across the river rhine.</string>
+
+    <!-- Name of the fourth public place [CHAR LIMIT=20] -->
+    <string name="public_places_jahnwiesen">Jahnwiesen</string>
+
+    <!-- Details about the fourth public place [CHAR LIMIT=100] -->
+    <string name="public_places_jahnwiesen_details">The Jahnwiesen are a vast pitch right in front
+        of the southern side of the city\'s biggest stadium, where one can exercise many different
+        sports.</string>
+
+    <!-- Name of the first restaurant [CHAR LIMIT=20] -->
+    <string name="restaurants_servus_colonia_alpina">Servus Colonia Alpina</string>
+
+    <!-- Details about the first restaurant [CHAR LIMIT=100] -->
+    <string name="restaurants_servus_colonia_alpina_details">Servus Colonia Alpina, located right at
+        the Cologne\'s historic Heumarkt, is like a skiers\' lodge right inside a city.</string>
+
+    <!-- Name of the second restaurant [CHAR LIMIT=20] -->
+    <string name="restaurants_centovini">Centovini</string>
+
+    <!-- Details about the second restaurant [CHAR LIMIT=100] -->
+    <string name="restaurants_centovini_details">The Centovini is an extremely good italian
+        restaurant in the west of Cologne.</string>
+
+    <!-- Name of the third restaurant [CHAR LIMIT=30] -->
+    <string name="restaurants_mongos">Mongo\'s Cologne</string>
+
+    <!-- Details about the third restaurant [CHAR LIMIT=100] -->
+    <string name="restaurants_mongos_details">The Mongo\'s Restaurant Cologne features braided
+        bamboo lamps and the food is prepared from the all-you-can-eat buffet at the Mongolian
+        grill.</string>
+
+    <!-- Name of the fourth restaurant [CHAR LIMIT=20] -->
+    <string name="restaurants_sion">Sion Brewerie Cologne</string>
+
+    <!-- Details about the fourth restaurant [CHAR LIMIT=100] -->
+    <string name="restaurants_sion_details">The Sion Brewerie Cologne, located in the historic city
+        centre, is a typical brewerie where you can eat and drink local stuff.</string>
+
+</resources>
